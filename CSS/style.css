@@ -1,0 +1,22 @@
+#bmi {
+    background-color: lightblue;
+    margin: 21px;
+    border-radius: 30px;
+}
+
+h3,
+input {
+    margin-left: 400px;
+    margin-top: 15px;
+}
+
+button {
+    margin-left: 435px;
+    margin-bottom: 15px;
+}
+
+#result {
+    margin-left: 408px;
+    color: red;
+    font-size: 30px;
+}
